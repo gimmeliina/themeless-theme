@@ -1,6 +1,0 @@
-name: Themeless Theme
-description: Automatic Dark and Light mode theme, inspired by HIG color scheme.
-version: 1.0.0
-ui:
-  css:
-    - themeless-theme.css 
